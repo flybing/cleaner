@@ -1,0 +1,17 @@
+# binaries
+clean.exe
+*.exe
+*.test
+*.out
+
+# ide
+.idea/
+.vscode/
+*.swp
+
+# os
+Thumbs.db
+.DS_Store
+
+# build
+dist/
